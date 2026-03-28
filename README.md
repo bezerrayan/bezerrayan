@@ -76,7 +76,7 @@
     <td width="50%">
       <h3 align="center"> E-commerce Completo</h3>
       <div align="center">
-        <a href="https://github.com/bezerrayan/SEU-REPO-ECOMMERCE" target="_blank">
+        <a href="https://github.com/bezerrayan/](https://github.com/bezerrayan/l4ckos-" target="_blank">
           <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Preview+do+Projeto" alt="Preview do projeto" width="100%"/>
         </a>
         <p>
