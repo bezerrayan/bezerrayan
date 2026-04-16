@@ -73,7 +73,7 @@
 
 <div align="center">
 
-# 🚀 Selected Work
+#  Selected Work
 
 <p>
   Projects focused on real-world applications, backend architecture and modern web development.
