@@ -6,15 +6,15 @@
 
 ---
 
-##  Sobre mim
+##  About Me
 
- Estudante de **Análise e Desenvolvimento de Sistemas**  
- Desenvolvedor **Full Stack Júnior** em transição de Frontend para Backend  
- Focado em **Node.js, TypeScript, APIs REST, integrações e deploy em cloud**
+-  Systems Analysis and Development student  
+-  Junior Full Stack Developer (Backend focused)  
+-  Focused on **Node.js, TypeScript, REST APIs, integrations and cloud deployment**
 
 ---
 
-##  Tecnologias
+##  Tech Stack
 
 <div align="center">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
@@ -25,6 +25,7 @@
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
+
 ---
 
 ##  GitHub Stats
@@ -36,7 +37,7 @@
 
 ---
 
-##  GitHub Streak
+##  Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bezerrayan&theme=tokyonight&hide_border=true"/>
@@ -55,12 +56,12 @@
 ##  Contributions Snake
 
 <p align="center">
-  <img src="https://github.com/bezerrayan/bezerrayan/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/bezerrayan/bezerrayan/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-##  GitHub Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bezerrayan&theme=tokyonight&row=1&column=6"/>
@@ -68,123 +69,102 @@
 
 ---
 
-##  Projetos em destaque
+##  Selected Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">L4CKOS E-commerce</h3>
-      <div align="center">
-        <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=L4CKOS+E-commerce" alt="L4CKOS E-commerce" width="100%"/>
-        </a>
-        <p>
-          Plataforma completa de e-commerce com autenticação, pagamentos, painel administrativo e integração com APIs.
-        </p>
-        <p>
-          <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
-            <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="http://www.l4ckos.com.br" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-      </div>
-    </td>
+<div align="center">
 
-    <td width="50%">
-      <h3 align="center">Sistema Escolinha RFC</h3>
-      <div align="center">
-        <a href="https://github.com/bezerrayan/site-resiliencia" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Escolinha+RFC" alt="Sistema Escolinha RFC" width="100%"/>
-        </a>
-        <p>
-          Sistema web com área administrativa, cadastro de alunos, responsáveis e gestão completa de conteúdo.
-        </p>
-        <p>
-          <a href="https://github.com/bezerrayan/site-resiliencia" target="_blank">
-            <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://site-resiliencia.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=render&logoColor=white"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
+###  L4CKOS E-commerce
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">Portfólio Dev</h3>
-      <div align="center">
-        <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Portfolio+Dev" alt="Portfólio Dev" width="100%"/>
-        </a>
-        <p>
-          Portfólio profissional com apresentação, projetos em destaque e identidade visual para recrutadores.
-        </p>
-        <p>
-          <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-            <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/bezerrayan" target="_blank">
-            <img src="https://img.shields.io/badge/Profile-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </div>
-    </td>
+<a href="http://www.l4ckos.com.br" target="_blank">
+  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=L4CKOS+E-commerce" width="85%"/>
+</a>
 
-    <td width="50%">
-      <h3 align="center">GitHub Profile</h3>
-      <div align="center">
-        <a href="https://github.com/bezerrayan/bezerrayan" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=GitHub+Profile" alt="GitHub Profile" width="100%"/>
-        </a>
-        <p>
-          README de perfil com apresentação profissional, stack, estatísticas e links principais.
-        </p>
-        <p>
-          <a href="https://github.com/bezerrayan/bezerrayan" target="_blank">
-            <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/bezerrayan" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<p>
+  Full stack e-commerce platform with authentication, payments, admin panel and real integrations.
+</p>
+
+<p>
+  <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="http://www.l4ckos.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Live Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+###  Sistema Escolinha RFC
+
+<a href="https://site-resiliencia.onrender.com/" target="_blank">
+  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=Escolinha+RFC" width="85%"/>
+</a>
+
+<p>
+  Web system with admin panel, student management and content control.
+</p>
+
+<p>
+  <a href="https://github.com/bezerrayan/site-resiliencia" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://site-resiliencia.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live Demo-1f6feb?style=for-the-badge&logo=render&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+###  Portfolio Dev
+
+<a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
+  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=Portfolio+Dev" width="85%"/>
+</a>
+
+<p>
+  Professional portfolio showcasing projects, technologies and developer presentation.
+</p>
+
+<p>
+  <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bezerrayan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-##  O que estou estudando agora
+##  Currently Learning
 
-- Arquitetura backend
-- APIs REST
-- TypeScript no backend
-- Integrações com pagamentos
-- Deploy e boas práticas de produção
+- Backend architecture  
+- REST APIs  
+- TypeScript for backend  
+- Payment integrations  
+- Production deployment  
 
 ---
 
-##  Contato
+##  Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yanbezerra">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/yan-bezerra-b35732344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bezerrayan651@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/yanvilemeb">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-##  Visitantes
+##  Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bezerrayan&color=blue"/>
@@ -192,5 +172,7 @@
 
 ---
 
- Sempre aprendendo novas tecnologias  
- Evoluindo constantemente como desenvolvedor
+<p align="center">
+  Always learning new technologies   
+  Constantly evolving as a developer
+</p>
