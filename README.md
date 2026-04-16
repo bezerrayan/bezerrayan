@@ -73,39 +73,39 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"> E-commerce Completo</h3>
+      <h3 align="center">E-commerce Completo</h3>
       <div align="center">
-        <a href="https://github.com/bezerrayan/](https://github.com/bezerrayan/l4ckos-" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Preview+do+Projeto" alt="Preview do projeto" width="100%"/>
+        <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
+          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=L4CKOS+E-commerce" alt="Preview do projeto L4CKOS" width="100%"/>
         </a>
         <p>
           Sistema de e-commerce com autenticação, carrinho, pagamentos e painel administrativo.
         </p>
         <p>
-          <a href="https://github.com/bezerrayan/SEU-REPO-ECOMMERCE" target="_blank">
+          <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
             <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://SEU-LINK-DEMO.com" target="_blank">
+          <a href="http://www.l4ckos.com.br" target="_blank">
             <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"> Sistema Escolinha RFC</h3>
+      <h3 align="center">Portfólio Web</h3>
       <div align="center">
-        <a href="https://github.com/bezerrayan/SEU-REPO-RFC" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Preview+do+Projeto" alt="Preview do projeto" width="100%"/>
+        <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
+          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Yan+Bezerra+Dev" alt="Preview do portfólio" width="100%"/>
         </a>
         <p>
-          Sistema web com área administrativa, cadastro de alunos, responsáveis e gestão de conteúdo.
+          Portfólio pessoal com apresentação profissional, projetos em destaque e links de contato.
         </p>
         <p>
-          <a href="https://github.com/bezerrayan/SEU-REPO-RFC" target="_blank">
+          <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
             <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://SEU-LINK-DEMO.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=render&logoColor=white"/>
+          <a href="https://github.com/bezerrayan/bezerrayan" target="_blank">
+            <img src="https://img.shields.io/badge/Profile-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/>
           </a>
         </p>
       </div>
@@ -114,39 +114,39 @@
 
   <tr>
     <td width="50%">
-      <h3 align="center"> API de Autenticação</h3>
+      <h3 align="center">Perfil GitHub</h3>
       <div align="center">
-        <a href="https://github.com/bezerrayan/SEU-REPO-AUTH" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Preview+do+Projeto" alt="Preview do projeto" width="100%"/>
+        <a href="https://github.com/bezerrayan/bezerrayan" target="_blank">
+          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=GitHub+Profile" alt="Preview do perfil GitHub" width="100%"/>
         </a>
         <p>
-          API REST com login, cadastro, JWT, refresh token e organização backend profissional.
+          README de perfil com apresentação, tecnologias, estatísticas e identidade profissional.
         </p>
         <p>
-          <a href="https://github.com/bezerrayan/SEU-REPO-AUTH" target="_blank">
+          <a href="https://github.com/bezerrayan/bezerrayan" target="_blank">
             <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://SEU-LINK-DEMO.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=postman&logoColor=white"/>
+          <a href="https://github.com/bezerrayan" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center"> Portfólio Web</h3>
+      <h3 align="center">Projeto em Destaque</h3>
       <div align="center">
-        <a href="https://github.com/bezerrayan/SEU-REPO-PORTFOLIO" target="_blank">
-          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Preview+do+Projeto" alt="Preview do projeto" width="100%"/>
+        <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
+          <img src="https://via.placeholder.com/500x280/0d1117/58A6FF?text=Featured+Project" alt="Projeto em destaque" width="100%"/>
         </a>
         <p>
-          Portfólio pessoal com apresentação profissional, projetos em destaque e links de contato.
+          Projeto full stack com foco em autenticação, experiência do usuário, integrações e arquitetura moderna.
         </p>
         <p>
-          <a href="https://github.com/bezerrayan/SEU-REPO-PORTFOLIO" target="_blank">
+          <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
             <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
-          <a href="https://SEU-LINK-DEMO.com" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"/>
+          <a href="http://www.l4ckos.com.br" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-1f6feb?style=for-the-badge&logo=render&logoColor=white"/>
           </a>
         </p>
       </div>
