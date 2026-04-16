@@ -73,64 +73,71 @@
 
 <div align="center">
 
-###  L4CKOS E-commerce
-
-<a href="http://www.l4ckos.com.br" target="_blank">
-  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=L4CKOS+E-commerce" width="85%"/>
-</a>
+# 🚀 Selected Work
 
 <p>
-  Full stack e-commerce platform with authentication, payments, admin panel and real integrations.
+  Projects focused on real-world applications, backend architecture and modern web development.
 </p>
+
+</div>
+
+---
+
+<!-- L4CKOS -->
+### 🛒 L4CKOS E-commerce
+
+<a href="http://www.l4ckos.com.br" target="_blank">
+  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/l4ckos-preview.png" width="100%" />
+</a>
+
+**Full stack e-commerce platform** with authentication, payments, admin dashboard and real integrations.
 
 <p>
   <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="http://www.l4ckos.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
-###  Sistema Escolinha RFC
+<!-- ESCOLINHA -->
+### ⚽ Sistema Escolinha RFC
 
 <a href="https://site-resiliencia.onrender.com/" target="_blank">
-  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=Escolinha+RFC" width="85%"/>
+  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/escolinha-preview.png" width="100%" />
 </a>
 
-<p>
-  Web system with admin panel, student management and content control.
-</p>
+**Web system with admin panel**, student management and content control.
 
 <p>
   <a href="https://github.com/bezerrayan/site-resiliencia" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://site-resiliencia.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-1f6feb?style=for-the-badge&logo=render&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
 
-###  Portfolio Dev
+<!-- PORTFOLIO -->
+### 💼 Portfolio Dev
 
 <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-  <img src="https://via.placeholder.com/1000x320/0d1117/58A6FF?text=Portfolio+Dev" width="85%"/>
+  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/portfolio-preview.png" width="100%" />
 </a>
 
-<p>
-  Professional portfolio showcasing projects, technologies and developer presentation.
-</p>
+**Professional portfolio** showcasing projects, stack and developer identity.
 
 <p>
   <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/bezerrayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
