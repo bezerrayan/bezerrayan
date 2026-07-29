@@ -45,11 +45,12 @@ Authentication, Google OAuth, products, orders, payments, shipping, coupons, adm
 
 ---
 
-### Portal 9º DF
+### GEAR 9º DF
 
-Digital platform created to support Scout Group operations, attendance, permissions and internal workflows.
+Official website for Grupo Escoteiro do Ar Salgado Filho, with institutional information, Scout branches, activities, projects, calendar, documents and contact channels.
 
 <a href="https://github.com/bezerrayan/Projeto-9df"><img src="https://img.shields.io/badge/Source-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://escoteiros9df.org.br/"><img src="https://img.shields.io/badge/Live-2F81F7?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 ---
 
