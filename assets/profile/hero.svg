@@ -1,0 +1,59 @@
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A10"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1040" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#F85149"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="440" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="27" stroke="#30363D" stroke-width="2"/>
+
+  <circle cx="84" cy="62" r="7" fill="#F85149"/>
+  <circle cx="108" cy="62" r="7" fill="#D29922"/>
+  <circle cx="132" cy="62" r="7" fill="#3FB950"/>
+  <text x="166" y="68" fill="#7D8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">profile://bezerrayan</text>
+
+  <g opacity="0.75">
+    <path d="M760 66H1082" stroke="#30363D"/>
+    <path d="M760 98H1020" stroke="#30363D"/>
+    <path d="M760 130H1110" stroke="#30363D"/>
+    <text x="760" y="184" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">STATUS</text>
+    <text x="760" y="215" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">BUILDING / SECURING / SHIPPING</text>
+    <text x="760" y="260" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">LOCATION</text>
+    <text x="760" y="291" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">BRASILIA — BRAZIL</text>
+    <text x="760" y="336" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">MODE</text>
+    <text x="760" y="367" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">LOGIC FIRST. IDENTITY ALWAYS.</text>
+  </g>
+
+  <g filter="url(#glow)">
+    <rect x="78" y="112" width="170" height="170" rx="32" fill="#0D1117" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M119 158L154 211L187 158" stroke="#58A6FF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M126 242H179" stroke="#F85149" stroke-width="12" stroke-linecap="round"/>
+    <path d="M196 158L213 242" stroke="#A371F7" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <text x="286" y="184" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="-2">YAN BEZERRA</text>
+  <text x="290" y="229" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="2">FULL STACK DEVELOPER // CYBERSECURITY ANALYST</text>
+  <text x="290" y="278" fill="#AAB4C0" font-family="Inter, Arial, sans-serif" font-size="21">Software, infrastructure and security working as one system.</text>
+
+  <rect x="288" y="315" width="160" height="42" rx="21" fill="#161B22" stroke="#30363D"/>
+  <circle cx="313" cy="336" r="6" fill="#3FB950"/>
+  <text x="330" y="343" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">OPEN TO BUILD</text>
+
+  <path d="M80 397H1120" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>
