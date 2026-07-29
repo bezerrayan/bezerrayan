@@ -1,185 +1,358 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Yan%20Bezerra&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Yan+Bezerra;Full+Stack+Developer;Backend+Focused;Node.js+%7C+TypeScript+%7C+APIs"/>
-</p>
-
----
-
-##  About Me
-
--  Systems Analysis and Development student  
--  Junior Full Stack Developer (Backend focused)  
--  Focused on **Node.js, TypeScript, REST APIs, integrations and cloud deployment**
-
----
-
-##  Tech Stack
-
-<div align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</div>
-
----
-
-##  GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerrayan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerrayan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-##  Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bezerrayan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-##  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerrayan&theme=tokyo-night"/>
-</p>
-
----
-
-##  Contributions Snake
-
-<p align="center">
-  <img src="https://github.com/bezerrayan/bezerrayan/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-##  Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bezerrayan&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-##  Selected Work
-
 <div align="center">
 
-#  Selected Work
+<img src="https://raw.githubusercontent.com/bezerrayan/bezerrayan/main/assets/profile/hero.svg" width="100%" alt="Yan Bezerra — Full Stack Developer and Cybersecurity Analyst"/>
 
-<p>
-  Projects focused on real-world applications, backend architecture and modern web development.
-</p>
+<br/>
 
-</div>
-
----
-
-<!-- L4CKOS -->
-### 🛒 L4CKOS E-commerce
-
-<a href="http://www.l4ckos.com.br" target="_blank">
-  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/l4ckos-preview.png" width="100%" />
-</a>
-
-**Full stack e-commerce platform** with authentication, payments, admin dashboard and real integrations.
-
-<p>
-  <a href="https://github.com/bezerrayan/l4ckos-" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="http://www.l4ckos.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ESCOLINHA -->
-### ⚽ Sistema Escolinha RFC
-
-<a href="https://site-resiliencia.onrender.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/escolinha-preview.png" width="100%" />
-</a>
-
-**Web system with admin panel**, student management and content control.
-
-<p>
-  <a href="https://github.com/bezerrayan/site-resiliencia" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://site-resiliencia.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- PORTFOLIO -->
-### 💼 Portfolio Dev
-
-<a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/bezerrayan/assets/main/portfolio-preview.png" width="100%" />
-</a>
-
-**Professional portfolio** showcasing projects, stack and developer identity.
-
-<p>
-  <a href="https://github.com/bezerrayan/Yan-Bezerra-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bezerrayan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/yan-bezerra-b35732344"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://bezerrayan.github.io/Yan-Bezerra-Dev/"><img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio"/></a>
+<a href="mailto:bezerrayan651@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=F85149" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-##  Currently Learning
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- Backend architecture  
-- REST APIs  
-- TypeScript for backend  
-- Payment integrations  
-- Production deployment  
+### `WHO AM I`
 
----
+I am **Yan Bezerra**, a Full Stack Developer and Junior Cybersecurity Analyst based in Brasília, Brazil.
 
-##  Contact
+I build complete web systems and work close to the security layer that keeps them reliable: authentication, access control, APIs, integrations, cloud infrastructure, monitoring and operational analysis.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yan-bezerra-b35732344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bezerrayan651@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/yanvilemeb">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+My work sits at the intersection of three areas:
 
----
+```text
+software engineering  +  infrastructure  +  cybersecurity
+```
 
-##  Visitors
+Currently completing a degree in **Systems Analysis and Development**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bezerrayan&color=blue"/>
-</p>
+</td>
+<td width="42%" valign="top">
 
----
+### `CURRENT SIGNAL`
 
-<p align="center">
-  Always learning new technologies   
-  Constantly evolving as a developer
-</p>
+```yaml
+role:
+  - Full Stack Developer
+  - Junior Cybersecurity Analyst
+
+building:
+  - production web systems
+  - APIs and integrations
+  - secure authentication flows
+
+studying:
+  - networks and protocols
+  - security operations
+  - application security
+  - threat intelligence
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/bezerrayan/bezerrayan/main/assets/profile/system.svg" width="100%" alt="Yan Bezerra capability map"/>
+
+<br/>
+
+## `SELECTED SYSTEMS`
+
+These are not tutorial projects. They were built around real users, operations, constraints and deployment environments.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### L4CKOS / COMMERCE PLATFORM
+
+A full stack e-commerce platform developed for a real clothing brand, covering the complete operation from product discovery to payment confirmation.
+
+**What is inside**
+
+- Customer authentication and Google OAuth
+- Product, inventory and order management
+- PIX, card and boleto payment flows
+- Asaas webhook integration
+- Melhor Envio shipping integration
+- Coupons, banners and promotions
+- Administrative dashboard
+- Audit events and protected routes
+- Separate frontend, API and database deployment
+
+**System stack**
+
+```text
+Next.js / TypeScript / Node.js / MySQL
+Railway / Vercel / Cloudflare / Asaas
+```
+
+<a href="https://github.com/bezerrayan/L4CKOS"><img src="https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.l4ckos.com.br"><img src="https://img.shields.io/badge/LIVE-l4ckos.com.br-F85149?style=flat-square"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 9º DF / SCOUT OPERATIONS
+
+A digital platform designed to support real Scout Group workflows and reduce manual operational work.
+
+**What it explores**
+
+- Attendance management
+- Member and activity records
+- Administrative permission levels
+- Project submission workflows
+- Internal operational organization
+- Data export and centralized information
+- Responsive interfaces for mobile use
+
+**Project value**
+
+```text
+real organization
+real workflow
+real operational problem
+```
+
+<a href="https://github.com/bezerrayan/Projeto-9df"><img src="https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RFC / MANAGEMENT SYSTEM
+
+A web platform built to centralize football school administration and reduce scattered operational control.
+
+**Main scope**
+
+- Student registration and management
+- Administrative interface
+- Content and information control
+- Responsive experience
+- Centralized operational data
+
+<a href="https://github.com/bezerrayan/site-resiliencia"><img src="https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://site-resiliencia.onrender.com/"><img src="https://img.shields.io/badge/LIVE-ON_RENDER-2F81F7?style=flat-square"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### YAN BEZERRA / PORTFOLIO
+
+My professional portfolio, built to present my work, technical direction and product identity outside the limits of a repository page.
+
+**Positioning**
+
+```text
+full stack development
+backend and integrations
+security-aware engineering
+real-world digital products
+```
+
+<a href="https://github.com/bezerrayan/Yan-Bezerra-Dev"><img src="https://img.shields.io/badge/SOURCE-161B22?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://bezerrayan.github.io/Yan-Bezerra-Dev/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-7C3AED?style=flat-square"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `SECURITY APPLIED`
+
+Security is not presented here as a list of buzzwords. These are controls and concepts I apply, investigate or study in practical contexts.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### APPLICATION
+
+```text
+HTTP-only cookies
+secure cookies
+CORS allowlists
+input validation
+file upload restrictions
+IDOR prevention
+rate limiting
+price integrity
+```
+
+</td>
+<td width="33%" valign="top">
+
+### ACCESS
+
+```text
+JWT and OAuth
+role-based permissions
+protected admin routes
+authorization checks
+session handling
+webhook validation
+audit events
+traceability
+```
+
+</td>
+<td width="33%" valign="top">
+
+### OPERATIONS
+
+```text
+OSINT analysis
+credential exposure
+network fundamentals
+Windows and Linux
+PowerShell and Bash
+SIEM and EDR concepts
+logs and monitoring
+hardening fundamentals
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `TECHNICAL INVENTORY`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,html,css&theme=dark" alt="Core development stack"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,docker,linux,powershell&theme=dark" alt="Backend infrastructure and systems stack"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel,vscode,wordpress&theme=dark" alt="Platforms and tools"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Frontend**
+
+Next.js  
+React  
+TypeScript  
+Tailwind CSS  
+HTML and CSS
+
+</td>
+<td width="25%" valign="top">
+
+**Backend**
+
+Node.js  
+REST APIs  
+Java  
+Spring Boot  
+Authentication
+
+</td>
+<td width="25%" valign="top">
+
+**Data and Cloud**
+
+MySQL  
+PostgreSQL  
+Docker  
+Railway  
+Vercel
+
+</td>
+<td width="25%" valign="top">
+
+**Systems**
+
+Linux  
+Windows  
+PowerShell  
+Git and GitHub  
+Cloudflare
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bezerrayan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F85149&include_all_commits=true" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerrayan&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
+
+</div>
+
+<br/>
+
+## `OUTSIDE THE CODEBASE`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**L4CKOS**
+
+Brand, platform, product operation and entrepreneurship.
+
+</td>
+<td width="25%" valign="top">
+
+**SkyCode**
+
+Technology community, collaboration and digital projects.
+
+</td>
+<td width="25%" valign="top">
+
+**Scouting**
+
+Leadership, organization, service and practical problem solving.
+
+</td>
+<td width="25%" valign="top">
+
+**YanVerum**
+
+Digital safety, scam awareness and cybersecurity education.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `BUILDING WITH LOGIC. FINISHING WITH IDENTITY.`
+
+<a href="https://www.linkedin.com/in/yan-bezerra-b35732344"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bezerrayan651@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-161B22?style=for-the-badge&logo=gmail&logoColor=F85149"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bezerrayan&style=flat-square&color=2F81F7&label=PROFILE+SIGNALS" alt="Profile views"/>
+
+</div>
